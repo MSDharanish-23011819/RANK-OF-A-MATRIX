@@ -26,7 +26,8 @@ print(rank)
 ```
 
 ## Output:
-![output](/rankmatrix%20%20output.png)
+![image](https://github.com/MSDharanish-23011819/RANK-OF-A-MATRIX/assets/147139454/70e3d1d6-cef8-4b39-b0a2-cf5ad322d010)
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
